@@ -1,0 +1,17 @@
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+PyPDF2>=3.0.0
+pdf2image>=1.17.0
+pytesseract>=0.3.13
+opencv-python>=4.9.0
+Pillow>=10.2.0
+slowapi>=0.1.4
+python-jose[cryptography]>=3.3.0
+python-multipart>=0.0.7
+pytest>=8.0.0
+pytest-cov>=4.1.0
+flake8>=7.0.0
+black>=24.1.0
+python-dotenv>=1.0.0
+PyMuPDF>=1.23.0
+requests>=2.31.0

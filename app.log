@@ -1,0 +1,111 @@
+2025-03-29 18:18:54,217 - app.main - INFO - Method: GET Path: / Status: 307 Process Time: 2.22ms
+2025-03-29 18:18:54,229 - app.main - INFO - Method: GET Path: /docs Status: 200 Process Time: 1.48ms
+2025-03-29 18:18:54,509 - app.main - INFO - Method: GET Path: /openapi.json Status: 200 Process Time: 9.63ms
+2025-03-29 18:19:08,394 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2025-03-29 18:19:08,395 - python_multipart.multipart - DEBUG - Calling on_header_field with data[42:61]
+2025-03-29 18:19:08,403 - python_multipart.multipart - DEBUG - Calling on_header_value with data[63:114]
+2025-03-29 18:19:08,405 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-03-29 18:19:08,405 - python_multipart.multipart - DEBUG - Calling on_header_field with data[116:128]
+2025-03-29 18:19:08,406 - python_multipart.multipart - DEBUG - Calling on_header_value with data[130:145]
+2025-03-29 18:19:08,407 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-03-29 18:19:08,407 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2025-03-29 18:19:08,408 - python_multipart.multipart - DEBUG - Calling on_part_data with data[149:49152]
+2025-03-29 18:19:08,410 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:32768]
+2025-03-29 18:19:08,413 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:212992]
+2025-03-29 18:19:08,421 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:245760]
+2025-03-29 18:19:08,425 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:262144]
+2025-03-29 18:19:08,428 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:262144]
+2025-03-29 18:19:08,442 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:262144]
+2025-03-29 18:19:08,448 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:82988]
+2025-03-29 18:19:08,449 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2025-03-29 18:19:08,449 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2025-03-29 18:19:08,452 - python_multipart.multipart - DEBUG - Calling on_header_field with data[83032:83051]
+2025-03-29 18:19:08,453 - python_multipart.multipart - DEBUG - Calling on_header_value with data[83053:83079]
+2025-03-29 18:19:08,453 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-03-29 18:19:08,454 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2025-03-29 18:19:08,454 - python_multipart.multipart - DEBUG - Calling on_part_data with data[83083:83091]
+2025-03-29 18:19:08,455 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2025-03-29 18:19:08,455 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2025-03-29 18:19:08,464 - app.main - INFO - Processing request - File: zaideaahdaar.pdf, Size: 1376.90KB, Hash: 0ce8a01e99e5594e4d0c0e9ceedc4bf97b08fa1d13b23b9fc6e5398d21413319, Timestamp: 2025-03-29T12:49:08.464270
+2025-03-29 18:19:08,555 - app.main - WARNING - Invalid Aadhaar number detected
+2025-03-29 18:19:08,558 - app.main - INFO - Method: POST Path: /extract Status: 200 Process Time: 166.66ms
+2025-03-29 18:25:02,104 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2025-03-29 18:25:02,108 - python_multipart.multipart - DEBUG - Calling on_header_field with data[42:61]
+2025-03-29 18:25:02,109 - python_multipart.multipart - DEBUG - Calling on_header_value with data[63:114]
+2025-03-29 18:25:02,109 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-03-29 18:25:02,110 - python_multipart.multipart - DEBUG - Calling on_header_field with data[116:128]
+2025-03-29 18:25:02,111 - python_multipart.multipart - DEBUG - Calling on_header_value with data[130:145]
+2025-03-29 18:25:02,111 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-03-29 18:25:02,112 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2025-03-29 18:25:02,114 - python_multipart.multipart - DEBUG - Calling on_part_data with data[149:196608]
+2025-03-29 18:25:02,117 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:245760]
+2025-03-29 18:25:02,119 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:262144]
+2025-03-29 18:25:02,122 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:262144]
+2025-03-29 18:25:02,127 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:262144]
+2025-03-29 18:25:02,133 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:181292]
+2025-03-29 18:25:02,134 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2025-03-29 18:25:02,135 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2025-03-29 18:25:02,135 - python_multipart.multipart - DEBUG - Calling on_header_field with data[181336:181355]
+2025-03-29 18:25:02,136 - python_multipart.multipart - DEBUG - Calling on_header_value with data[181357:181383]
+2025-03-29 18:25:02,136 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-03-29 18:25:02,137 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2025-03-29 18:25:02,138 - python_multipart.multipart - DEBUG - Calling on_part_data with data[181387:181395]
+2025-03-29 18:25:02,138 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2025-03-29 18:25:02,139 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2025-03-29 18:25:02,149 - app.main - INFO - Processing request - File: zaideaahdaar.pdf, Size: 1376.90KB, Hash: 0ce8a01e99e5594e4d0c0e9ceedc4bf97b08fa1d13b23b9fc6e5398d21413319, Timestamp: 2025-03-29T12:55:02.149189
+2025-03-29 18:25:02,169 - app.main - WARNING - Invalid Aadhaar number detected
+2025-03-29 18:25:02,173 - app.main - INFO - Method: POST Path: /extract Status: 200 Process Time: 72.10ms
+2025-03-29 18:25:22,159 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2025-03-29 18:25:22,161 - python_multipart.multipart - DEBUG - Calling on_header_field with data[42:61]
+2025-03-29 18:25:22,161 - python_multipart.multipart - DEBUG - Calling on_header_value with data[63:114]
+2025-03-29 18:25:22,161 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-03-29 18:25:22,162 - python_multipart.multipart - DEBUG - Calling on_header_field with data[116:128]
+2025-03-29 18:25:22,162 - python_multipart.multipart - DEBUG - Calling on_header_value with data[130:145]
+2025-03-29 18:25:22,162 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-03-29 18:25:22,163 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2025-03-29 18:25:22,163 - python_multipart.multipart - DEBUG - Calling on_part_data with data[149:278528]
+2025-03-29 18:25:22,165 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:262144]
+2025-03-29 18:25:22,167 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:262144]
+2025-03-29 18:25:22,168 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:262144]
+2025-03-29 18:25:22,174 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:262144]
+2025-03-29 18:25:22,177 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:82988]
+2025-03-29 18:25:22,178 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2025-03-29 18:25:22,178 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2025-03-29 18:25:22,179 - python_multipart.multipart - DEBUG - Calling on_header_field with data[83032:83051]
+2025-03-29 18:25:22,179 - python_multipart.multipart - DEBUG - Calling on_header_value with data[83053:83079]
+2025-03-29 18:25:22,180 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-03-29 18:25:22,180 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2025-03-29 18:25:22,180 - python_multipart.multipart - DEBUG - Calling on_part_data with data[83083:83091]
+2025-03-29 18:25:22,181 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2025-03-29 18:25:22,181 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2025-03-29 18:25:22,186 - app.main - INFO - Processing request - File: zaideaahdaar.pdf, Size: 1376.90KB, Hash: 0ce8a01e99e5594e4d0c0e9ceedc4bf97b08fa1d13b23b9fc6e5398d21413319, Timestamp: 2025-03-29T12:55:22.186889
+2025-03-29 18:25:22,221 - app.main - INFO - Method: POST Path: /extract Status: 200 Process Time: 69.37ms
+2025-03-29 18:25:43,173 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2025-03-29 18:25:43,176 - python_multipart.multipart - DEBUG - Calling on_header_field with data[42:61]
+2025-03-29 18:25:43,177 - python_multipart.multipart - DEBUG - Calling on_header_value with data[63:114]
+2025-03-29 18:25:43,177 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-03-29 18:25:43,178 - python_multipart.multipart - DEBUG - Calling on_header_field with data[116:128]
+2025-03-29 18:25:43,178 - python_multipart.multipart - DEBUG - Calling on_header_value with data[130:145]
+2025-03-29 18:25:43,179 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-03-29 18:25:43,179 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2025-03-29 18:25:43,181 - python_multipart.multipart - DEBUG - Calling on_part_data with data[149:229376]
+2025-03-29 18:25:43,186 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:245760]
+2025-03-29 18:25:43,189 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:262144]
+2025-03-29 18:25:43,193 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:262144]
+2025-03-29 18:25:43,195 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:262144]
+2025-03-29 18:25:43,200 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:148524]
+2025-03-29 18:25:43,201 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2025-03-29 18:25:43,201 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2025-03-29 18:25:43,201 - python_multipart.multipart - DEBUG - Calling on_header_field with data[148568:148587]
+2025-03-29 18:25:43,202 - python_multipart.multipart - DEBUG - Calling on_header_value with data[148589:148615]
+2025-03-29 18:25:43,202 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-03-29 18:25:43,202 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2025-03-29 18:25:43,203 - python_multipart.multipart - DEBUG - Calling on_part_data with data[148619:148627]
+2025-03-29 18:25:43,203 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2025-03-29 18:25:43,203 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2025-03-29 18:25:43,213 - app.main - INFO - Processing request - File: zaideaahdaar.pdf, Size: 1376.90KB, Hash: 0ce8a01e99e5594e4d0c0e9ceedc4bf97b08fa1d13b23b9fc6e5398d21413319, Timestamp: 2025-03-29T12:55:43.213561
+2025-03-29 18:25:43,254 - app.main - INFO - Method: POST Path: /extract Status: 200 Process Time: 85.30ms
+2025-03-29 19:45:01,075 - app.main - INFO - Method: GET Path: /docs Status: 200 Process Time: 1.38ms
+2025-03-29 19:45:01,279 - app.main - INFO - Method: GET Path: /openapi.json Status: 200 Process Time: 9.31ms
+2025-03-29 19:45:07,963 - app.main - INFO - Method: GET Path: /docs Status: 200 Process Time: 0.97ms
+2025-03-29 19:45:08,278 - app.main - INFO - Method: GET Path: /openapi.json Status: 200 Process Time: 1.17ms
